@@ -19,6 +19,9 @@
   "homepage": "https://github.com/Idletalk/web_spider#readme",
   "devDependencies": {
     "koa": "^2.10.0",
+    "koa-body": "^4.1.1",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.17.1",
     "superagent": "^5.1.0"
   },
   "dependencies": {
